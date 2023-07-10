@@ -1,0 +1,5 @@
+.venv/
+openvino_notebooks/
+openvino_notebooks-main.zip
+openvino_notebooks-main/
+__pycache__/
