@@ -16,9 +16,10 @@
 ## Clone code
 
 * (Code clone 방법에 대해서 기술)
+프로젝트를 받아 사용 하시려면 Visual Studio Code(VScode) 에서 사용 하세요.
 
 ```shell
-git clone https://github.com/zzz/yyy/xxxx
+git clone https://github.com/ggobukggobuk/2jo
 ```
 
 ## Prerequite
